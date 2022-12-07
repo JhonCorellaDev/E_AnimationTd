@@ -5,5 +5,5 @@ this is very nice to make informative messages or notifications. E_AnimationsTd 
 your messages written in drawings and have a different version of it, I hope you like it
 
 # Lib
+* <a href="https://github.com/Southclaws/zcmd" title="zcmd">Zcmd</a>
 
-https://github.com/Southclaws/zcmd
